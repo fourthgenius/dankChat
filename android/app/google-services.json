@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10882433232",
+    "project_id": "dank-chat-8d4f5",
+    "storage_bucket": "dank-chat-8d4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10882433232:android:c57c430d40734ad30b5ed5",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10882433232-uktangaurirrbv97edp962utq5tii8fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2vNl4EQ99yJMcv3_UY9HqlN27t_VgwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10882433232-uktangaurirrbv97edp962utq5tii8fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
